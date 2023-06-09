@@ -3,11 +3,6 @@
     "description": "app para gerenciamento de hortifrute",
     "type": "library",
     "license": "mit",
-    "autoload": {
-        "psr-4": {
-            "Fabio\\Hortifrute\\": "src/"
-        }
-    },
     "authors": [
         {
             "name": "Fabio-Oliveira-Dev",
